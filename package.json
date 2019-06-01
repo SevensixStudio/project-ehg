@@ -1,49 +1,22 @@
 {
-  "name": "sufficient-metal-report",
-  "productName": "sufficient-metal-report",
-  "description": "My Electron application description",
-  "keywords": [],
-  "main": "./main.js",
+  "name": "electron-quick-start",
   "version": "1.0.0",
-  "author": "noelc",
+  "description": "A minimal Electron application",
+  "main": "main.js",
   "scripts": {
-    "start": "electron-forge start",
-    "package": "electron-forge package",
-    "make": "electron-forge make",
-    "publish": "electron-forge publish",
-    "lint": "echo \"No linting configured\""
+    "start": "electron ."
   },
-  "dependencies": {},
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
   "devDependencies": {
-    "@electron-forge/cli": "6.0.0-beta.22",
-    "@electron-forge/maker-deb": "6.0.0-beta.22",
-    "@electron-forge/maker-rpm": "6.0.0-beta.22",
-    "@electron-forge/maker-squirrel": "6.0.0-beta.22",
-    "@electron-forge/maker-zip": "6.0.0-beta.22",
-    "electron": "^6.0.0-beta.3"
-  },
-  "config": {
-    "forge": {
-      "packagerConfig": {},
-      "makers": [
-        {
-          "name": "@electron-forge/maker-squirrel"
-        },
-        {
-          "name": "@electron-forge/maker-zip",
-          "platforms": [
-            "darwin"
-          ]
-        },
-        {
-          "name": "@electron-forge/maker-deb",
-          "config": {}
-        },
-        {
-          "name": "@electron-forge/maker-rpm",
-          "config": {}
-        }
-      ]
-    }
+    "electron": "^5.0.2"
   }
 }
