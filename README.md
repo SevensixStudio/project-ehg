@@ -1,7 +1,13 @@
 # project-h
-一款的有关汉服同袍的剧情向游戏/一款的有關漢服同袍的劇情向遊戲/A drama game about Hanfu robe/漢服の友達に関するドラマゲーム
+一款的有关汉服同袍的剧情向游戏  
+一款的有關漢服同袍的劇情向遊戲  
+A drama game about Hanfu robe  
+漢服の友達に関するドラマゲーム
 # 求人信息/Jobs/募集
-画师/畫師/画師/Painter、HTML5、CSS、JS
+ 1. 画师/畫師/画師/Painter
+ 2. HTML5
+ 3. CSS
+ 4. JS
 # Sponsor/赞助/贊助/スポンサーシップ
 https://afdian.net/@CreeperKong
 # 计划的语言/計劃的語言/Planned languages/予定言語
